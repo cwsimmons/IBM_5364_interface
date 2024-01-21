@@ -38,12 +38,12 @@ $EndComp
 $Comp
 L 74xx:74LS74 U1
 U 3 1 63099F14
-P 1700 3550
-F 0 "U1" H 1930 3596 50  0000 L CNN
-F 1 "74LS74" H 1930 3505 50  0000 L CNN
-F 2 "" H 1700 3550 50  0001 C CNN
-F 3 "74xx/74hc_hct74.pdf" H 1700 3550 50  0001 C CNN
-	3    1700 3550
+P 1700 3700
+F 0 "U1" H 1930 3746 50  0000 L CNN
+F 1 "74LS74" H 1930 3655 50  0000 L CNN
+F 2 "" H 1700 3700 50  0001 C CNN
+F 3 "74xx/74hc_hct74.pdf" H 1700 3700 50  0001 C CNN
+	3    1700 3700
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -789,7 +789,7 @@ Text Label 12200 26400 1    50   ~ 0
 GND
 Text Label 10100 26400 1    50   ~ 0
 GND
-Text Label 1700 3950 3    50   ~ 0
+Text Label 1700 4100 3    50   ~ 0
 GND
 Text Label 3200 4450 3    50   ~ 0
 GND
@@ -886,4 +886,188 @@ F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 3050 16850 50  0001 C CNN
 	1    3050 16850
 	0    1    1    0   
 $EndComp
+Text Label 2850 17150 2    50   ~ 0
+GND
+Text Label 12900 26400 1    50   ~ 0
+5V
+Text Label 1700 3300 1    50   ~ 0
+5V
+Text Label 3200 3450 1    50   ~ 0
+5V
+Text Label 4700 4300 1    50   ~ 0
+5V
+Text Label 6200 3150 1    50   ~ 0
+5V
+Text Label 7700 3800 1    50   ~ 0
+5V
+Text Label 9200 3100 1    50   ~ 0
+5V
+Text Label 1700 8150 1    50   ~ 0
+5V
+Text Label 3300 6300 1    50   ~ 0
+5V
+Text Label 4700 8750 1    50   ~ 0
+5V
+Text Label 6300 6550 0    50   ~ 0
+5V
+Text Label 1800 11800 1    50   ~ 0
+5V
+Text Label 3200 13900 1    50   ~ 0
+5V
+Text Label 4700 14300 1    50   ~ 0
+5V
+Text Label 6300 11800 1    50   ~ 0
+5V
+Text Label 1800 16300 1    50   ~ 0
+5V
+Text Label 6200 16550 0    50   ~ 0
+5V
+Text Label 7700 16300 1    50   ~ 0
+5V
+Text Label 4600 17600 1    50   ~ 0
+5V
+Text Label 1800 19300 1    50   ~ 0
+5V
+Text Label 3300 19300 1    50   ~ 0
+5V
+Text Label 4800 19300 1    50   ~ 0
+5V
+Text Label 6300 19300 1    50   ~ 0
+5V
+Text Label 1800 21800 1    50   ~ 0
+5V
+Text Label 3300 21800 1    50   ~ 0
+5V
+Text Label 4800 21800 1    50   ~ 0
+5V
+Text Label 6300 22050 0    50   ~ 0
+5V
+Text Label 1700 26800 1    50   ~ 0
+5V
+Text Label 10300 26400 1    50   ~ 0
+5V
+Text Label 1700 2950 3    50   ~ 0
+##1
+Text Label 3450 1650 0    50   ~ 0
+##1
+Text Label 1400 2550 2    50   ~ 0
+##2
+Text Label 7200 16900 2    50   ~ 0
+##2
+Text Label 11300 26400 1    50   ~ 0
+##2
+Text Label 1400 2650 2    50   ~ 0
+##3
+Text Label 3450 2150 0    50   ~ 0
+##3
+Text Label 2850 2050 2    50   ~ 0
+##4
+Text Label 1700 2350 1    50   ~ 0
+5V
+Text Label 1700 1400 1    50   ~ 0
+5V
+Text Label 6200 2000 3    50   ~ 0
+5V
+Text Label 6200 2950 3    50   ~ 0
+5V
+Text Label 2000 2550 0    50   ~ 0
+##4
+Text Label 5900 1600 2    50   ~ 0
+##4
+Text Label 2000 2750 0    50   ~ 0
+##5
+Text Label 3450 3150 0    50   ~ 0
+##5
+Text Label 4350 12050 2    50   ~ 0
+##5
+Text Label 2850 3250 2    50   ~ 0
+##6
+Text Label 3450 13150 0    50   ~ 0
+##6
+Text Label 2850 2550 2    50   ~ 0
+##7
+Text Label 4950 17300 0    50   ~ 0
+##7
+Text Label 3450 2650 0    50   ~ 0
+##8
+Text Label 2800 6800 2    50   ~ 0
+##8
+Text Label 4350 4150 2    50   ~ 0
+##9
+Text Label 1950 26450 0    50   ~ 0
+##9
+Text Label 4950 4150 0    50   ~ 0
+##10
+Text Label 1700 2000 0    50   ~ 0
+##10
+Text Label 4350 3650 2    50   ~ 0
+##11
+Text Label 1300 17100 2    50   ~ 0
+##11
+Text Label 8200 16700 0    50   ~ 0
+##11
+Text Label 4950 3650 0    50   ~ 0
+##12
+Text Label 1350 26550 2    50   ~ 0
+##12
+Text Label 4350 3150 2    50   ~ 0
+##13
+Text Label 7950 3450 0    50   ~ 0
+##13
+Text Label 2850 2750 2    50   ~ 0
+##14
+Text Label 4950 3150 0    50   ~ 0
+##14
+Text Label 2850 3050 2    50   ~ 0
+##15
+Text Label 3450 12650 0    50   ~ 0
+##15
+Text Label 5900 2550 2    50   ~ 0
+##16
+Text Label 6500 2750 0    50   ~ 0
+##16
+Text Label 4350 2650 2    50   ~ 0
+##16
+Text Label 5900 2650 2    50   ~ 0
+##17
+Text Label 9450 2250 0    50   ~ 0
+##17
+Text Label 5800 20600 2    50   ~ 0
+##17
+Text Label 6200 2350 0    50   ~ 0
+##18
+Text Label 4950 2150 0    50   ~ 0
+##18
+Text Label 2850 1550 2    50   ~ 0
+##18
+Text Label 6500 2550 0    50   ~ 0
+##19
+Text Label 8850 2750 2    50   ~ 0
+##19
+Text Label 8850 2850 2    50   ~ 0
+##19
+Text Label 7350 3550 2    50   ~ 0
+##20
+Text Label 14850 14900 2    50   ~ 0
+##20
+Text Label 3800 22100 0    50   ~ 0
+##20
+Text Label 4300 19600 2    50   ~ 0
+##20
+Text Label 7350 3350 2    50   ~ 0
+##21
+Text Label 14850 15300 2    50   ~ 0
+##21
+Text Label 2300 22500 0    50   ~ 0
+##21
+Text Label 2800 20300 2    50   ~ 0
+##21
+Text Label 7350 2950 2    50   ~ 0
+##22
+Text Label 7350 1750 2    50   ~ 0
+##22
+Text Label 4350 1650 2    50   ~ 0
+##22
+Text Label 6800 12200 0    50   ~ 0
+##22
 $EndSCHEMATC
