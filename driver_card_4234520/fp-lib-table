@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "IBM 5364 Driver Card")(type "KiCad")(uri "/Volumes/MyBook6/PCB_Design_Projects/KiCad/IBM 5364 Driver Card/IBM 5364 Driver Card.pretty")(options "")(descr ""))
+  (lib (name "custom")(type "KiCad")(uri "/Volumes/MyBook6/PCB_Design_Projects/IBM_5364_interface/libraries/custom.pretty")(options "")(descr ""))
+)

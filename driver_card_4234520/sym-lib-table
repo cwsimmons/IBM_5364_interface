@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name custom)(type Legacy)(uri C:/Users/chris.simmons/repos/IBM_5364_interface/libraries/custom.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "custom")(type "KiCad")(uri "/Volumes/MyBook6/PCB_Design_Projects/IBM_5364_interface/libraries/custom.kicad_sym")(options "")(descr ""))
 )
